@@ -1,0 +1,37 @@
+{
+    "id": "3395_apkh3zyev2sql",
+    "metadata": {
+        "game_id": 3395,
+        "clip_id": "apkh3zyev2sql",
+        "date": "2022-10-30",
+        "field_length": 105,
+        "field_width": 68,
+        "team_home": {
+            "name": "Viking",
+            "id": 2
+        },
+        "team_away": {
+            "name": "Molde",
+            "id": 15
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 650
+    },
+    "events": [
+        {
+            "frame_start": 28,
+            "type": "tackle-live",
+            "frame_end": 36
+        },
+        {
+            "frame_start": 457,
+            "type": "tackle-replay",
+            "frame_end": 470
+        }
+    ]
+}

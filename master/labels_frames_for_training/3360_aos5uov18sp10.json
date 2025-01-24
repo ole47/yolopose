@@ -1,0 +1,32 @@
+{
+    "id": "3360_aos5uov18sp10",
+    "metadata": {
+        "game_id": 3360,
+        "clip_id": "aos5uov18sp10",
+        "date": "2022-09-18",
+        "field_length": 105,
+        "field_width": 65,
+        "team_home": {
+            "name": "Bodø/Glimt",
+            "id": 14
+        },
+        "team_away": {
+            "name": "Haugesund",
+            "id": 9
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 650
+    },
+    "events": [
+        {
+            "frame_start": 352,
+            "type": "tackle-replay-incomplete",
+            "frame_end": 387
+        }
+    ]
+}

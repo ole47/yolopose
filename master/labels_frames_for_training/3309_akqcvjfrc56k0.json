@@ -1,0 +1,37 @@
+{
+    "id": "3309_akqcvjfrc56k0",
+    "metadata": {
+        "game_id": 3309,
+        "clip_id": "akqcvjfrc56k0",
+        "date": "2022-08-07",
+        "field_length": 106,
+        "field_width": 68,
+        "team_home": {
+            "name": "Strømsgodset",
+            "id": 16
+        },
+        "team_away": {
+            "name": "Sarpsborg 08",
+            "id": 3
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 650
+    },
+    "events": [
+        {
+            "frame_start": 27,
+            "type": "tackle-live",
+            "frame_end": 49
+        },
+        {
+            "frame_start": 644,
+            "type": "tackle-live-incomplete",
+            "frame_end": 650
+        }
+    ]
+}

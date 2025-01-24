@@ -1,0 +1,37 @@
+{
+    "id": "3336_av6itx73mw1z6",
+    "metadata": {
+        "game_id": 3336,
+        "clip_id": "av6itx73mw1z6",
+        "date": "2022-08-28",
+        "field_length": 105,
+        "field_width": 68,
+        "team_home": {
+            "name": "Tromsø",
+            "id": 10
+        },
+        "team_away": {
+            "name": "Rosenborg",
+            "id": 8
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 650
+    },
+    "events": [
+        {
+            "frame_start": 91,
+            "type": "tackle-live",
+            "frame_end": 111
+        },
+        {
+            "frame_start": 403,
+            "type": "tackle-replay",
+            "frame_end": 453
+        }
+    ]
+}

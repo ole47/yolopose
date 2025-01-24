@@ -1,0 +1,42 @@
+{
+    "id": "3242_a81ygl2tfvu8s",
+    "metadata": {
+        "game_id": 3242,
+        "clip_id": "a81ygl2tfvu8s",
+        "date": "2022-05-28",
+        "field_length": 107,
+        "field_width": 67,
+        "team_home": {
+            "name": "HamKam",
+            "id": 35
+        },
+        "team_away": {
+            "name": "Odd",
+            "id": 5
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 650
+    },
+    "events": [
+        {
+            "frame_start": 56,
+            "type": "tackle-live",
+            "frame_end": 77
+        },
+        {
+            "frame_start": 85,
+            "type": "tackle-live",
+            "frame_end": 113
+        },
+        {
+            "frame_start": 129,
+            "type": "tackle-live",
+            "frame_end": 140
+        }
+    ]
+}

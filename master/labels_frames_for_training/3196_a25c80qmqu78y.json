@@ -1,0 +1,37 @@
+{
+    "id": "3196_a25c80qmqu78y",
+    "metadata": {
+        "game_id": 3196,
+        "clip_id": "a25c80qmqu78y",
+        "date": "2022-04-18",
+        "field_length": 105,
+        "field_width": 64,
+        "team_home": {
+            "name": "Haugesund",
+            "id": 9
+        },
+        "team_away": {
+            "name": "Strømsgodset",
+            "id": 16
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 650
+    },
+    "events": [
+        {
+            "frame_start": 199,
+            "type": "tackle-live",
+            "frame_end": 250
+        },
+        {
+            "frame_start": 606,
+            "type": "tackle-replay-incomplete",
+            "frame_end": 650
+        }
+    ]
+}

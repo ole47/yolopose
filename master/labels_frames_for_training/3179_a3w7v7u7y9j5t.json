@@ -1,0 +1,32 @@
+{
+    "id": "3179_a3w7v7u7y9j5t",
+    "metadata": {
+        "game_id": 3179,
+        "clip_id": "a3w7v7u7y9j5t",
+        "date": "2022-04-02",
+        "field_length": 105,
+        "field_width": 68,
+        "team_home": {
+            "name": "Molde",
+            "id": 15
+        },
+        "team_away": {
+            "name": "Vålerenga",
+            "id": 1
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 650
+    },
+    "events": [
+        {
+            "frame_start": 103,
+            "type": "tackle-live",
+            "frame_end": 130
+        }
+    ]
+}

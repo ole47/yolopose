@@ -1,0 +1,42 @@
+{
+    "id": "3362_albn6ts3xpwi6",
+    "metadata": {
+        "game_id": 3362,
+        "clip_id": "albn6ts3xpwi6",
+        "date": "2022-10-02",
+        "field_length": 105,
+        "field_width": 64,
+        "team_home": {
+            "name": "Haugesund",
+            "id": 9
+        },
+        "team_away": {
+            "name": "Odd",
+            "id": 5
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 650
+    },
+    "events": [
+        {
+            "frame_start": 292,
+            "type": "tackle-live",
+            "frame_end": 309
+        },
+        {
+            "frame_start": 341,
+            "type": "tackle-live",
+            "frame_end": 364
+        },
+        {
+            "frame_start": 597,
+            "type": "tackle-replay-incomplete",
+            "frame_end": 616
+        }
+    ]
+}

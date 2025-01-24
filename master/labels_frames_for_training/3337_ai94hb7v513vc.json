@@ -1,0 +1,42 @@
+{
+    "id": "3337_ai94hb7v513vc",
+    "metadata": {
+        "game_id": 3337,
+        "clip_id": "ai94hb7v513vc",
+        "date": "2022-08-28",
+        "field_length": 105,
+        "field_width": 68,
+        "team_home": {
+            "name": "Viking",
+            "id": 2
+        },
+        "team_away": {
+            "name": "Vålerenga",
+            "id": 1
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 650
+    },
+    "events": [
+        {
+            "frame_start": 1,
+            "type": "tackle-replay-incomplete",
+            "frame_end": 7
+        },
+        {
+            "frame_start": 510,
+            "type": "tackle-replay-incomplete",
+            "frame_end": 557
+        },
+        {
+            "frame_start": 646,
+            "type": "tackle-replay-incomplete",
+            "frame_end": 650
+        }
+    ]
+}

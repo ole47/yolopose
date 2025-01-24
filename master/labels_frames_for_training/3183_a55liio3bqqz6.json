@@ -1,0 +1,37 @@
+{
+    "id": "3183_a55liio3bqqz6",
+    "metadata": {
+        "game_id": 3183,
+        "clip_id": "a55liio3bqqz6",
+        "date": "2022-04-03",
+        "field_length": 100,
+        "field_width": 66,
+        "team_home": {
+            "name": "Jerv",
+            "id": 38
+        },
+        "team_away": {
+            "name": "StrÃ¸msgodset",
+            "id": 16
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 650
+    },
+    "events": [
+        {
+            "frame_start": 102,
+            "type": "tackle-live",
+            "frame_end": 121
+        },
+        {
+            "frame_start": 126,
+            "type": "tackle-live",
+            "frame_end": 140
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "3367_agdccr6ln9u1n",
+    "metadata": {
+        "game_id": 3367,
+        "clip_id": "agdccr6ln9u1n",
+        "date": "2022-10-01",
+        "field_length": 105,
+        "field_width": 68,
+        "team_home": {
+            "name": "Vålerenga",
+            "id": 1
+        },
+        "team_away": {
+            "name": "Strømsgodset",
+            "id": 16
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 650
+    },
+    "events": [
+        {
+            "frame_start": 163,
+            "type": "tackle-live",
+            "frame_end": 192
+        },
+        {
+            "frame_start": 504,
+            "type": "tackle-replay",
+            "frame_end": 650
+        }
+    ]
+}

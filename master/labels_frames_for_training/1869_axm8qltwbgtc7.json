@@ -1,0 +1,32 @@
+{
+    "id": "1869_axm8qltwbgtc7",
+    "metadata": {
+        "game_id": 1869,
+        "clip_id": "axm8qltwbgtc7",
+        "date": "2021-08-29",
+        "field_length": 105,
+        "field_width": 68,
+        "team_home": {
+            "name": "Vålerenga",
+            "id": 1
+        },
+        "team_away": {
+            "name": "Stabæk",
+            "id": 11
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 400
+    },
+    "events": [
+        {
+            "frame_start": 333,
+            "type": "tackle-replay",
+            "frame_end": 394
+        }
+    ]
+}

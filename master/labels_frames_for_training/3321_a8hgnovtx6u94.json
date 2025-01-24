@@ -1,0 +1,37 @@
+{
+    "id": "3321_a8hgnovtx6u94",
+    "metadata": {
+        "game_id": 3321,
+        "clip_id": "a8hgnovtx6u94",
+        "date": "2022-05-12",
+        "field_length": 105,
+        "field_width": 68,
+        "team_home": {
+            "name": "Viking",
+            "id": 2
+        },
+        "team_away": {
+            "name": "Strømsgodset",
+            "id": 16
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 650
+    },
+    "events": [
+        {
+            "frame_start": 342,
+            "type": "tackle-replay",
+            "frame_end": 398
+        },
+        {
+            "frame_start": 425,
+            "type": "tackle-replay",
+            "frame_end": 463
+        }
+    ]
+}

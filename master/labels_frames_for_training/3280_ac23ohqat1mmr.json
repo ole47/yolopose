@@ -1,0 +1,42 @@
+{
+    "id": "3280_ac23ohqat1mmr",
+    "metadata": {
+        "game_id": 3280,
+        "clip_id": "ac23ohqat1mmr",
+        "date": "2022-07-12",
+        "field_length": 105,
+        "field_width": 68,
+        "team_home": {
+            "name": "Sandefjord Fotball",
+            "id": 18
+        },
+        "team_away": {
+            "name": "Aalesund",
+            "id": 6
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 650
+    },
+    "events": [
+        {
+            "frame_start": 136,
+            "type": "tackle-live",
+            "frame_end": 162
+        },
+        {
+            "frame_start": 448,
+            "type": "tackle-replay",
+            "frame_end": 482
+        },
+        {
+            "frame_start": 500,
+            "type": "tackle-replay-incomplete",
+            "frame_end": 573
+        }
+    ]
+}

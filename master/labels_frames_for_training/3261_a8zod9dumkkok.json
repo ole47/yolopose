@@ -1,0 +1,32 @@
+{
+    "id": "3261_a8zod9dumkkok",
+    "metadata": {
+        "game_id": 3261,
+        "clip_id": "a8zod9dumkkok",
+        "date": "2022-06-26",
+        "field_length": 107,
+        "field_width": 67,
+        "team_home": {
+            "name": "HamKam",
+            "id": 35
+        },
+        "team_away": {
+            "name": "Sarpsborg 08",
+            "id": 3
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 650
+    },
+    "events": [
+        {
+            "frame_start": 340,
+            "type": "tackle-replay",
+            "frame_end": 379
+        }
+    ]
+}

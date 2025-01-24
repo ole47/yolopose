@@ -1,0 +1,37 @@
+{
+    "id": "3330_ad7v4u9ej1heq",
+    "metadata": {
+        "game_id": 3330,
+        "clip_id": "ad7v4u9ej1heq",
+        "date": "2022-08-28",
+        "field_length": 105,
+        "field_width": 68,
+        "team_home": {
+            "name": "Aalesund",
+            "id": 6
+        },
+        "team_away": {
+            "name": "Odd",
+            "id": 5
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 650
+    },
+    "events": [
+        {
+            "frame_start": 448,
+            "type": "tackle-replay",
+            "frame_end": 504
+        },
+        {
+            "frame_start": 600,
+            "type": "tackle-replay-incomplete",
+            "frame_end": 650
+        }
+    ]
+}

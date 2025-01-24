@@ -1,0 +1,32 @@
+{
+    "id": "3387_aqd0za8647q2v",
+    "metadata": {
+        "game_id": 3387,
+        "clip_id": "aqd0za8647q2v",
+        "date": "2022-10-23",
+        "field_length": 105,
+        "field_width": 68,
+        "team_home": {
+            "name": "Molde",
+            "id": 15
+        },
+        "team_away": {
+            "name": "Rosenborg",
+            "id": 8
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 650
+    },
+    "events": [
+        {
+            "frame_start": 290,
+            "type": "tackle-replay",
+            "frame_end": 352
+        }
+    ]
+}

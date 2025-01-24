@@ -1,0 +1,37 @@
+{
+    "id": "3257_alijfs41dgzje",
+    "metadata": {
+        "game_id": 3257,
+        "clip_id": "alijfs41dgzje",
+        "date": "2022-06-19",
+        "field_length": 105,
+        "field_width": 68,
+        "team_home": {
+            "name": "Aalesund",
+            "id": 6
+        },
+        "team_away": {
+            "name": "Vålerenga",
+            "id": 1
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 650
+    },
+    "events": [
+        {
+            "frame_start": 181,
+            "type": "tackle-replay",
+            "frame_end": 199
+        },
+        {
+            "frame_start": 216,
+            "type": "tackle-replay",
+            "frame_end": 290
+        }
+    ]
+}

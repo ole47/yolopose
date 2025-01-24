@@ -1,0 +1,32 @@
+{
+    "id": "3258_a8q4xe1m6vdq2",
+    "metadata": {
+        "game_id": 3258,
+        "clip_id": "a8q4xe1m6vdq2",
+        "date": "2022-06-25",
+        "field_length": 105,
+        "field_width": 64,
+        "team_home": {
+            "name": "Haugesund",
+            "id": 9
+        },
+        "team_away": {
+            "name": "Viking",
+            "id": 2
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 650
+    },
+    "events": [
+        {
+            "frame_start": 461,
+            "type": "tackle-live",
+            "frame_end": 481
+        }
+    ]
+}

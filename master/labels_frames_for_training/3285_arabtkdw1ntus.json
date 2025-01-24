@@ -1,0 +1,37 @@
+{
+    "id": "3285_arabtkdw1ntus",
+    "metadata": {
+        "game_id": 3285,
+        "clip_id": "arabtkdw1ntus",
+        "date": "2022-08-31",
+        "field_length": 105,
+        "field_width": 68,
+        "team_home": {
+            "name": "Tromsø",
+            "id": 10
+        },
+        "team_away": {
+            "name": "Strømsgodset",
+            "id": 16
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 650
+    },
+    "events": [
+        {
+            "frame_start": 19,
+            "type": "tackle-live",
+            "frame_end": 50
+        },
+        {
+            "frame_start": 330,
+            "type": "tackle-replay",
+            "frame_end": 353
+        }
+    ]
+}

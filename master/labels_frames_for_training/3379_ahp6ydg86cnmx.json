@@ -1,0 +1,32 @@
+{
+    "id": "3379_ahp6ydg86cnmx",
+    "metadata": {
+        "game_id": 3379,
+        "clip_id": "ahp6ydg86cnmx",
+        "date": "2022-10-15",
+        "field_length": 105,
+        "field_width": 68,
+        "team_home": {
+            "name": "Rosenborg",
+            "id": 8
+        },
+        "team_away": {
+            "name": "Strømsgodset",
+            "id": 16
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 650
+    },
+    "events": [
+        {
+            "frame_start": 590,
+            "type": "tackle-replay",
+            "frame_end": 650
+        }
+    ]
+}

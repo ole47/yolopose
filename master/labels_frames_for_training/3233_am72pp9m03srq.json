@@ -1,0 +1,37 @@
+{
+    "id": "3233_am72pp9m03srq",
+    "metadata": {
+        "game_id": 3233,
+        "clip_id": "am72pp9m03srq",
+        "date": "2022-05-22",
+        "field_length": 107,
+        "field_width": 67,
+        "team_home": {
+            "name": "HamKam",
+            "id": 35
+        },
+        "team_away": {
+            "name": "Rosenborg",
+            "id": 8
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 650
+    },
+    "events": [
+        {
+            "frame_start": 8,
+            "type": "tackle-replay",
+            "frame_end": 93
+        },
+        {
+            "frame_start": 125,
+            "type": "tackle-replay-incomplete",
+            "frame_end": 201
+        }
+    ]
+}

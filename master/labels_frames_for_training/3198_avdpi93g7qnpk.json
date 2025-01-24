@@ -1,0 +1,37 @@
+{
+    "id": "3198_avdpi93g7qnpk",
+    "metadata": {
+        "game_id": 3198,
+        "clip_id": "avdpi93g7qnpk",
+        "date": "2022-04-18",
+        "field_length": 107,
+        "field_width": 67,
+        "team_home": {
+            "name": "HamKam",
+            "id": 35
+        },
+        "team_away": {
+            "name": "Sandefjord Fotball",
+            "id": 18
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 650
+    },
+    "events": [
+        {
+            "frame_start": 8,
+            "type": "tackle-live-incomplete",
+            "frame_end": 20
+        },
+        {
+            "frame_start": 400,
+            "type": "tackle-replay",
+            "frame_end": 433
+        }
+    ]
+}

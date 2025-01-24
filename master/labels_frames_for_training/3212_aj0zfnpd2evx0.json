@@ -1,0 +1,32 @@
+{
+    "id": "3212_aj0zfnpd2evx0",
+    "metadata": {
+        "game_id": 3212,
+        "clip_id": "aj0zfnpd2evx0",
+        "date": "2022-05-08",
+        "field_length": 105,
+        "field_width": 64,
+        "team_home": {
+            "name": "Haugesund",
+            "id": 9
+        },
+        "team_away": {
+            "name": "Kristiansund",
+            "id": 22
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 650
+    },
+    "events": [
+        {
+            "frame_start": 30,
+            "type": "tackle-live",
+            "frame_end": 53
+        }
+    ]
+}

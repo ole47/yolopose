@@ -1,0 +1,32 @@
+{
+    "id": "3397_a7d9xomevmf8z",
+    "metadata": {
+        "game_id": 3397,
+        "clip_id": "a7d9xomevmf8z",
+        "date": "2022-10-30",
+        "field_length": 105,
+        "field_width": 68,
+        "team_home": {
+            "name": "Rosenborg",
+            "id": 8
+        },
+        "team_away": {
+            "name": "Bodø/Glimt",
+            "id": 14
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 650
+    },
+    "events": [
+        {
+            "frame_start": 294,
+            "type": "tackle-replay",
+            "frame_end": 353
+        }
+    ]
+}

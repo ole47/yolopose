@@ -1,0 +1,32 @@
+{
+    "id": "3353_aox1g6awavv26",
+    "metadata": {
+        "game_id": 3353,
+        "clip_id": "aox1g6awavv26",
+        "date": "2022-09-10",
+        "field_length": 105,
+        "field_width": 68,
+        "team_home": {
+            "name": "Sandefjord Fotball",
+            "id": 18
+        },
+        "team_away": {
+            "name": "Odd",
+            "id": 5
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 650
+    },
+    "events": [
+        {
+            "frame_start": 465,
+            "type": "tackle-replay",
+            "frame_end": 501
+        }
+    ]
+}

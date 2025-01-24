@@ -1,0 +1,42 @@
+{
+    "id": "3384_a4t1vnxmosynq",
+    "metadata": {
+        "game_id": 3384,
+        "clip_id": "a4t1vnxmosynq",
+        "date": "2022-10-15",
+        "field_length": 105,
+        "field_width": 68,
+        "team_home": {
+            "name": "Tromsø",
+            "id": 10
+        },
+        "team_away": {
+            "name": "Odd",
+            "id": 5
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 650
+    },
+    "events": [
+        {
+            "frame_start": 33,
+            "type": "tackle-live",
+            "frame_end": 63
+        },
+        {
+            "frame_start": 422,
+            "type": "tackle-replay-incomplete",
+            "frame_end": 488
+        },
+        {
+            "frame_start": 532,
+            "type": "tackle-replay",
+            "frame_end": 608
+        }
+    ]
+}

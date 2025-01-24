@@ -1,0 +1,42 @@
+{
+    "id": "3270_adgk6daxo528h",
+    "metadata": {
+        "game_id": 3270,
+        "clip_id": "adgk6daxo528h",
+        "date": "2022-07-03",
+        "field_length": 107,
+        "field_width": 67,
+        "team_home": {
+            "name": "HamKam",
+            "id": 35
+        },
+        "team_away": {
+            "name": "Molde",
+            "id": 15
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 650
+    },
+    "events": [
+        {
+            "frame_start": 59,
+            "type": "tackle-live",
+            "frame_end": 68
+        },
+        {
+            "frame_start": 160,
+            "type": "tackle-live",
+            "frame_end": 183
+        },
+        {
+            "frame_start": 579,
+            "type": "tackle-replay",
+            "frame_end": 639
+        }
+    ]
+}

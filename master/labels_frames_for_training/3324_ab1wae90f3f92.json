@@ -1,0 +1,42 @@
+{
+    "id": "3324_ab1wae90f3f92",
+    "metadata": {
+        "game_id": 3324,
+        "clip_id": "ab1wae90f3f92",
+        "date": "2022-08-21",
+        "field_length": 105,
+        "field_width": 68,
+        "team_home": {
+            "name": "Lillestrøm",
+            "id": 13
+        },
+        "team_away": {
+            "name": "Sandefjord Fotball",
+            "id": 18
+        }
+    },
+    "media_attributes": {
+        "height": 720,
+        "width": 1280,
+        "mime_type": "video/mp4",
+        "frame_rate": 25,
+        "frame_count": 650
+    },
+    "events": [
+        {
+            "frame_start": 39,
+            "type": "tackle-live",
+            "frame_end": 59
+        },
+        {
+            "frame_start": 532,
+            "type": "tackle-replay-incomplete",
+            "frame_end": 589
+        },
+        {
+            "frame_start": 616,
+            "type": "tackle-replay-incomplete",
+            "frame_end": 650
+        }
+    ]
+}
